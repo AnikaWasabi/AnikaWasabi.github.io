@@ -1,0 +1,14 @@
+
+.my-css-rule {
+	font-size: 28px;
+}
+h1 {color:#403075;
+} 
+h2,h3{background:green;}
+.imagesize{
+ width: 50%;
+}
+body {
+  background-image: url("C:/Users/1/Desktop/steam-academy/website-2/img/sky.jpg");
+  background-size: cover;
+}
